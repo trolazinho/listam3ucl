@@ -1,0 +1,13 @@
+#EXTM3U
+
+#EXTINF:-1 , canal cdf
+
+https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/V_yJ9oXPxe5ORrFD-r_FPrmSwqwAqIsTDk0Z7Nw1W3IvpXE97UAEe_uDmGWOXzoqYuhIVf6hzLs5NSiIb6Z_yA/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live
+
+#EXTINF:-2 , canal 2 de fútbol
+
+https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/v_FwbOK9oN34DaezAjV8KadbekTPfkiBW2Wu5pKwzG8Lh1ijQLGFETkxlC2NYgTfQwwL0iAbR1AeeY96EbK5lg/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live
+
+#EXTINF:-3 , fox sport
+
+https://2201.janjua.pw:8088/adfree/foxsport02hd/playlist.m3u8?id=101480&pk=29406c890f2d6b3e938dfe31d64c816332c0e1c29fadd1db5fb80c9a103edd00
